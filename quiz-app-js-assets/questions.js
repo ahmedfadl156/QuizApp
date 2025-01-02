@@ -3959,6 +3959,11 @@ const questions = [
         correctAnswer: 0,
       },
       {
+      question: "who Is The Best Person In The World?",
+      options: ["Ahmed Fadl" , "Cristaino Ronaldo" , "Lionel Messi" , "Neymar"],
+      correctAnswer: 0 ,
+      },
+      {
         question: "Who composed the experimental electronic album 'Fossora' in 2022?",
         options: ["Björk", "Holly Herndon", "Oneohtrix Point Never", "Laurel Halo"],
         correctAnswer: 0,
